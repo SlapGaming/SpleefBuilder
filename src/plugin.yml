@@ -1,0 +1,12 @@
+name: SpleefBuilder
+main: me.naithantu.SpleefBuilder.SpleefBuilder
+version: 1.5
+description: >
+             Rebuilds your spleef arena!
+commands:
+  rebuildarena:
+    description: Rebuilds the arena.
+  rba:
+    description: Rebuilds the arena.
+  warparena:
+    description: Warps the player to the arena.
